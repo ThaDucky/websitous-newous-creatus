@@ -1,0 +1,12 @@
+body{
+background-color: rgb(119, 182, 241);    
+}
+a{
+text-align: center;
+text-justify: auto;
+list-style-position: inside;
+}   
+.sizeImages{
+height: 64px;
+width: 64px;
+}    
